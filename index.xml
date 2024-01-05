@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models</title>
+      <link>https://zn1010.github.io/publication/beyond_efficiency/</link>
+      <pubDate>Thu, 04 Jan 2024 17:16:57 -0400</pubDate>
+      <guid>https://zn1010.github.io/publication/beyond_efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Article Name</title>
+      <link>https://zn1010.github.io/post/my-article-name/</link>
+      <pubDate>Sun, 19 Nov 2023 02:20:19 -0500</pubDate>
+      <guid>https://zn1010.github.io/post/my-article-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fair Abstractive Summarization of Diverse Perspectives</title>
       <link>https://zn1010.github.io/publication/fairsumm/</link>
       <pubDate>Tue, 14 Nov 2023 17:16:57 -0400</pubDate>
@@ -257,6 +273,27 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://zn1010.github.io/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://zn1010.github.io/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;[Jan. 2024]&lt;/strong&gt; Our survey paper on resource-efficient LLMs is online, entitled &lt;a href=&#34;https://arxiv.org/abs/2401.00625&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models&lt;/a&gt;. Feel free to check it out!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Dec. 2023]&lt;/strong&gt; Presented our &lt;a href=&#34;https://aclanthology.org/2023.emnlp-main.673/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FaMeSumm&lt;/a&gt; paper at EMNLP 2023 in Singapore.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Nov. 2023]&lt;/strong&gt; Our paper on &lt;a href=&#34;https://arxiv.org/abs/2311.07884&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fair abstractive summarization of diverse perspectives&lt;/a&gt; is online. Feel free to check it out!&lt;/p&gt;
+
 </description>
     </item>
     
