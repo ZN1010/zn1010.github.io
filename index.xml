@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>PEaCE: A Chemistry-Oriented Dataset for Optical Character Recognition on Scientific Documents</title>
+      <link>https://zn1010.github.io/publication/peace/</link>
+      <pubDate>Mon, 19 Feb 2024 17:16:57 -0400</pubDate>
+      <guid>https://zn1010.github.io/publication/peace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models</title>
       <link>https://zn1010.github.io/publication/beyond_efficiency/</link>
       <pubDate>Thu, 04 Jan 2024 17:16:57 -0400</pubDate>
@@ -290,6 +298,7 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;strong&gt;[Feb. 2024]&lt;/strong&gt; One paper on chemistry-oriented OCR has been accepted to LREC-COLING 2024.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Jan. 2024]&lt;/strong&gt; Our survey paper on resource-efficient LLMs is online, entitled &lt;a href=&#34;https://arxiv.org/abs/2401.00625&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models&lt;/a&gt;. Feel free to check it out!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Dec. 2023]&lt;/strong&gt; Presented our &lt;a href=&#34;https://aclanthology.org/2023.emnlp-main.673/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FaMeSumm&lt;/a&gt; paper at EMNLP 2023 in Singapore.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Nov. 2023]&lt;/strong&gt; Our paper on &lt;a href=&#34;https://arxiv.org/abs/2311.07884&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fair abstractive summarization of diverse perspectives&lt;/a&gt; is online. Feel free to check it out!&lt;/p&gt;
