@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>Generality and Specificity: Pruning as a Domain-specific LLM Extractor</title>
+      <link>https://zn1010.github.io/publication/d-pruner/</link>
+      <pubDate>Tue, 12 Mar 2024 18:16:57 -0400</pubDate>
+      <guid>https://zn1010.github.io/publication/d-pruner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair Abstractive Summarization of Diverse Perspectives</title>
+      <link>https://zn1010.github.io/publication/fairsumm/</link>
+      <pubDate>Tue, 12 Mar 2024 17:16:57 -0400</pubDate>
+      <guid>https://zn1010.github.io/publication/fairsumm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PEaCE: A Chemistry-Oriented Dataset for Optical Character Recognition on Scientific Documents</title>
       <link>https://zn1010.github.io/publication/peace/</link>
       <pubDate>Mon, 19 Feb 2024 17:16:57 -0400</pubDate>
@@ -53,14 +69,6 @@
       <link>https://zn1010.github.io/post/my-article-name/</link>
       <pubDate>Sun, 19 Nov 2023 02:20:19 -0500</pubDate>
       <guid>https://zn1010.github.io/post/my-article-name/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fair Abstractive Summarization of Diverse Perspectives</title>
-      <link>https://zn1010.github.io/publication/fairsumm/</link>
-      <pubDate>Tue, 14 Nov 2023 17:16:57 -0400</pubDate>
-      <guid>https://zn1010.github.io/publication/fairsumm/</guid>
       <description></description>
     </item>
     
@@ -298,6 +306,8 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;strong&gt;[Mar. 2024]&lt;/strong&gt; Two papers on LLMs compression and LLMs summarization has been accepted to NAACL 2024.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Feb. 2024]&lt;/strong&gt; Our FaMeSumm paper has been reported by &lt;a href=&#34;https://www.psu.edu/news/information-sciences-and-technology/story/improving-efficiency-reliability-ai-medical-summarization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Penn State News&lt;/a&gt; and other external sites.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Feb. 2024]&lt;/strong&gt; One paper on chemistry-oriented OCR has been accepted to LREC-COLING 2024.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Jan. 2024]&lt;/strong&gt; Our survey paper on resource-efficient LLMs is online, entitled &lt;a href=&#34;https://arxiv.org/abs/2401.00625&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models&lt;/a&gt;. Feel free to check it out!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Dec. 2023]&lt;/strong&gt; Presented our &lt;a href=&#34;https://aclanthology.org/2023.emnlp-main.673/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FaMeSumm&lt;/a&gt; paper at EMNLP 2023 in Singapore.&lt;/p&gt;

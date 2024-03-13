@@ -5,12 +5,28 @@
     <link>https://zn1010.github.io/publication/</link>
       <atom:link href="https://zn1010.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Feb 2024 17:16:57 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 18:16:57 -0400</lastBuildDate>
     <image>
       <url>https://zn1010.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://zn1010.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Generality and Specificity: Pruning as a Domain-specific LLM Extractor</title>
+      <link>https://zn1010.github.io/publication/d-pruner/</link>
+      <pubDate>Tue, 12 Mar 2024 18:16:57 -0400</pubDate>
+      <guid>https://zn1010.github.io/publication/d-pruner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair Abstractive Summarization of Diverse Perspectives</title>
+      <link>https://zn1010.github.io/publication/fairsumm/</link>
+      <pubDate>Tue, 12 Mar 2024 17:16:57 -0400</pubDate>
+      <guid>https://zn1010.github.io/publication/fairsumm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PEaCE: A Chemistry-Oriented Dataset for Optical Character Recognition on Scientific Documents</title>
@@ -25,14 +41,6 @@
       <link>https://zn1010.github.io/publication/beyond_efficiency/</link>
       <pubDate>Thu, 04 Jan 2024 17:16:57 -0400</pubDate>
       <guid>https://zn1010.github.io/publication/beyond_efficiency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fair Abstractive Summarization of Diverse Perspectives</title>
-      <link>https://zn1010.github.io/publication/fairsumm/</link>
-      <pubDate>Tue, 14 Nov 2023 17:16:57 -0400</pubDate>
-      <guid>https://zn1010.github.io/publication/fairsumm/</guid>
       <description></description>
     </item>
     
