@@ -5,7 +5,7 @@
     <link>https://zn1010.github.io/publication/</link>
       <atom:link href="https://zn1010.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 18:16:57 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Apr 2024 18:16:57 -0400</lastBuildDate>
     <image>
       <url>https://zn1010.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Generality and Specificity: Pruning as a Domain-specific LLM Extractor</title>
+      <title>Evaluating LLMs at Detecting Errors in LLM Responses</title>
+      <link>https://zn1010.github.io/publication/realmistake/</link>
+      <pubDate>Fri, 05 Apr 2024 18:16:57 -0400</pubDate>
+      <guid>https://zn1010.github.io/publication/realmistake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pruning as a Domain-specific LLM Extractor</title>
       <link>https://zn1010.github.io/publication/d-pruner/</link>
       <pubDate>Tue, 12 Mar 2024 18:16:57 -0400</pubDate>
       <guid>https://zn1010.github.io/publication/d-pruner/</guid>
