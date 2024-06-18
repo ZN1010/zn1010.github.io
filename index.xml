@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs</title>
+      <link>https://zn1010.github.io/publication/self-correction-llms/</link>
+      <pubDate>Wed, 05 Jun 2024 18:16:57 -0400</pubDate>
+      <guid>https://zn1010.github.io/publication/self-correction-llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evaluating LLMs at Detecting Errors in LLM Responses</title>
       <link>https://zn1010.github.io/publication/realmistake/</link>
       <pubDate>Fri, 05 Apr 2024 18:16:57 -0400</pubDate>
@@ -314,9 +322,10 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;strong&gt;[Jun. 2024]&lt;/strong&gt; Our survey paper on self-correction of LLMs is online, entitled &lt;a href=&#34;https://arxiv.org/abs/2406.01297&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs&lt;/a&gt;. Feel free to check it out!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Apr. 2024]&lt;/strong&gt; I will join Salesforce AI Research as a Research Intern at Palo Alto, CA in summer 2024!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Apr. 2024]&lt;/strong&gt; Our paper on error detection benchmark of LLMs is online, entitled &lt;a href=&#34;https://arxiv.org/abs/2404.03602&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evaluating LLMs at Detecting Errors in LLM Responses&lt;/a&gt;. Feel free to check it out!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[Mar. 2024]&lt;/strong&gt; Two papers on LLMs compression and LLMs summarization has been accepted to NAACL 2024.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Mar. 2024]&lt;/strong&gt; Two papers on LLMs compression and LLMs summarization have been accepted to NAACL 2024.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Feb. 2024]&lt;/strong&gt; Our FaMeSumm paper has been reported by &lt;a href=&#34;https://www.psu.edu/news/information-sciences-and-technology/story/improving-efficiency-reliability-ai-medical-summarization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Penn State News&lt;/a&gt; and other external sites.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Feb. 2024]&lt;/strong&gt; One paper on chemistry-oriented OCR has been accepted to LREC-COLING 2024.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Jan. 2024]&lt;/strong&gt; Our survey paper on resource-efficient LLMs is online, entitled &lt;a href=&#34;https://arxiv.org/abs/2401.00625&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models&lt;/a&gt;. Feel free to check it out!&lt;/p&gt;
