@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>selected | Nan Zhang</title>
+    <link>https://zn1010.github.io/tag/selected/</link>
+      <atom:link href="https://zn1010.github.io/tag/selected/index.xml" rel="self" type="application/rss+xml" />
+    <description>selected</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 01:16:57 -0400</lastBuildDate>
+    <image>
+      <url>https://zn1010.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>selected</title>
+      <link>https://zn1010.github.io/tag/selected/</link>
+    </image>
+    
+    <item>
+      <title>When Reasoning Meets Compression: Understanding the Effects of LLMs Compression on Large Reasoning Models</title>
+      <link>https://zn1010.github.io/publication/benchmark_reasoningcompression/</link>
+      <pubDate>Sat, 01 Nov 2025 01:16:57 -0400</pubDate>
+      <guid>https://zn1010.github.io/publication/benchmark_reasoningcompression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SiReRAG: Indexing Similar and Related Information for Multihop Reasoning</title>
+      <link>https://zn1010.github.io/publication/sirerag/</link>
+      <pubDate>Thu, 09 Jan 2025 17:16:57 -0400</pubDate>
+      <guid>https://zn1010.github.io/publication/sirerag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pruning as a Domain-specific LLM Extractor</title>
+      <link>https://zn1010.github.io/publication/d-pruner/</link>
+      <pubDate>Tue, 12 Mar 2024 18:16:57 -0400</pubDate>
+      <guid>https://zn1010.github.io/publication/d-pruner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FaMeSumm: Investigating and Improving Faithfulness of Medical Summarization</title>
+      <link>https://zn1010.github.io/publication/famesumm/</link>
+      <pubDate>Sat, 07 Oct 2023 17:16:57 -0400</pubDate>
+      <guid>https://zn1010.github.io/publication/famesumm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
