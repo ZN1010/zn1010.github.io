@@ -5,7 +5,7 @@
     <link>https://zn1010.github.io/publication/</link>
       <atom:link href="https://zn1010.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 01:16:57 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jan 2026 17:16:57 -0400</lastBuildDate>
     <image>
       <url>https://zn1010.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -15,7 +15,7 @@
     <item>
       <title>When Reasoning Meets Compression: Understanding the Effects of LLMs Compression on Large Reasoning Models</title>
       <link>https://zn1010.github.io/publication/benchmark_reasoningcompression/</link>
-      <pubDate>Sat, 01 Nov 2025 01:16:57 -0400</pubDate>
+      <pubDate>Fri, 09 Jan 2026 17:16:57 -0400</pubDate>
       <guid>https://zn1010.github.io/publication/benchmark_reasoningcompression/</guid>
       <description></description>
     </item>
