@@ -5,12 +5,20 @@
     <link>https://zn1010.github.io/tag/selected/</link>
       <atom:link href="https://zn1010.github.io/tag/selected/index.xml" rel="self" type="application/rss+xml" />
     <description>selected</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jan 2026 17:16:57 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Feb 2026 17:16:57 -0400</lastBuildDate>
     <image>
       <url>https://zn1010.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>selected</title>
       <link>https://zn1010.github.io/tag/selected/</link>
     </image>
+    
+    <item>
+      <title>QuantLRM: Quantization of Large Reasoning Models via Fine-Tuning Signals</title>
+      <link>https://zn1010.github.io/publication/quantlrm/</link>
+      <pubDate>Mon, 09 Feb 2026 17:16:57 -0400</pubDate>
+      <guid>https://zn1010.github.io/publication/quantlrm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>When Reasoning Meets Compression: Understanding the Effects of LLMs Compression on Large Reasoning Models</title>

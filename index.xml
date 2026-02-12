@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>QuantLRM: Quantization of Large Reasoning Models via Fine-Tuning Signals</title>
+      <link>https://zn1010.github.io/publication/quantlrm/</link>
+      <pubDate>Mon, 09 Feb 2026 17:16:57 -0400</pubDate>
+      <guid>https://zn1010.github.io/publication/quantlrm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>When Reasoning Meets Compression: Understanding the Effects of LLMs Compression on Large Reasoning Models</title>
       <link>https://zn1010.github.io/publication/benchmark_reasoningcompression/</link>
       <pubDate>Fri, 09 Jan 2026 17:16:57 -0400</pubDate>
@@ -370,6 +378,7 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;strong&gt;[Feb. 2026]&lt;/strong&gt; Our quantization paper is online, entitled &lt;a href=&#34;https://arxiv.org/abs/2602.02581&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QuantLRM: Quantization of Large Reasoning Models via Fine-Tuning Signals&lt;/a&gt;. Our method delivers a consistent improvement for LRMs quantization, with an average improvement of 6.55% on an RL fine-tuned model!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Jan. 2026]&lt;/strong&gt; Excited that our &lt;a href=&#34;https://arxiv.org/abs/2504.02010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LRMs compression benchmarking and interpreation paper&lt;/a&gt; is accepted by ICLR 2026!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Oct. 2025]&lt;/strong&gt; Our benchmarking and interpreation on compressed large reasoning models (LRMs) is online, entitled &lt;a href=&#34;https://arxiv.org/abs/2504.02010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;When Reasoning Meets Compression: Understanding the Effects of LLMs Compression on Large Reasoning Models&lt;/a&gt;. We provide analysis on quantized, distilled, and pruned LRMs to decode the effects of compression!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Sept. 2025]&lt;/strong&gt; Our paper on creating training data for Process Reward Models (PRMs) is online, entitled &lt;a href=&#34;https://arxiv.org/abs/2505.15960&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Generalizable Process Reward Models via Formally Verified Training Data&lt;/a&gt;. Feel free to check it out!&lt;/p&gt;
